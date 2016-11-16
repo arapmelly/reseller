@@ -1,0 +1,1 @@
+/var/www/html/reseller/app/views/deals/create.blade.php
